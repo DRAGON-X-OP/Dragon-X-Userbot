@@ -1,18 +1,18 @@
 {
-  "name": "LEGENDBOT",
-  "description": "Made with Love And By Python Language With Hardwork... By @LegendBoy_XD❤ ",
-  "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
+  "name": "DRAGONBOT",
+  "description": "Made with Love And By Python Language With Hardwork... By @TG_DRAGON_BOY❤ ",
+  "logo": "https://te.legra.ph/file/483797734b7e953479c15.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "Dragonbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_K_Userbot",
+  "repository": "https://github.com/DRAGON-X-OP/Dragon-X-Userbot/",
+  "website": "https://github.com/DRAGON-X-OP/Dragon-X-Userbot/",
+  "success_url": "https://t.me/DRAGON_BOT_XD",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -30,7 +30,7 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "LEGEND_STRING": {
+    "Dragon_STRING": {
       "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
       "value": ""
     },
