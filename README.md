@@ -1,42 +1,42 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![DRAGONBOT](https://te.legra.ph/file/483797734b7e953479c15.jpg)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot)
 
 
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』 </b>
+<b> 🐉 DRAGONBOT 🐲 </b>
 </h1>
 
 <h6 align="center">
-  <b>⚡ Presenting a LegendBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ Presenting a DragonXBot 🐉. Which Is One Of The Fastest ⚡ & Smoothest 🙂 Bot On Telegram Based on Telethon ⚡</b>
 </h6>
 
 
-[![](https://img.shields.io/badge/LegendBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?style=flat-square&color=yellow)](https://github.com/LEGEND-AI/LEGENDBOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?style=flat-square&color=orange)](https://github.com/LEGEND-AI/LEGENDBOT/fork)
-[![Size](https://img.shields.io/github/repo-size/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/)   
+[![](https://img.shields.io/badge/DragonXbot-v1.0-blue)](#)
+[![Stars](https://img.shields.io/github/stars/DRAGON-X-OP/Dragon-X-Userbot?style=flat-square&color=yellow)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/DRAGON-X-OP/Dragon-X-Userbot?style=flat-square&color=orange)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/fork)
+[![Size](https://img.shields.io/github/repo-size/DRAGON-X-OP/Dragon-X-Userbot?style=flat-square&color=green)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/)   
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LEGEND-AI/LEGENDBOT)
-[![Contributors](https://img.shields.io/github/contributors/LEGEND-AI/LEGENDBOT?style=flat-square&color=green)](https://github.com/LEGEND-AI/LEGENDBOT/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot)
+[![Contributors](https://img.shields.io/github/contributors/DRAGON-X-OP/Dragon-X-Userbot?style=flat-square&color=green)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/LEGEND-AI/LEGENDBOT/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/DRAGON-X-OP/Dragon-X-Userbot/blob/main/LICENSE)   
 
 ------
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/DRAGON-X-OP/Dragon-X-Userbot/network/members"><img src="https://img.shields.io/github/forks/DRAGON-X-OP/Dragon-X-Userbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/DRAGON-X-OP/Dragon-X-Userbot/stargazers"><img src="https://img.shields.io/github/stars/DRAGON-X-OP/Dragon-X-Userbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/DRAGON-X-OP/Dragon-X-Userbot"></a><p align="left"><a href="https://github.com/DRAGON-X-OP/Dragon-X-Userbot?"></a>
 
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_K_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_K_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DRAGON_X_USERBOT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DRAGON_BOT_XD)
 
 ------
 
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCU3TbwDYw8Iv0_DKQysWugg?style=social)](https://youtube.com/channel/UCU3TbwDYw8Iv0_DKQysWugg)
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
 
@@ -56,7 +56,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `DRAGON_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 ------
 
@@ -77,12 +77,12 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/ITS-LEGENDBOT/LEGENDBOT/master/LegendString.py && python3 LegendString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/DRAGON-X-OP/Dragon-X-Userbot/master/DragonString.py && python3 DragonString.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your DragonXBot Session Will be saved in your Telegram Saved Message.
 
 
 
@@ -92,7 +92,7 @@
 >                     ❗YOU ARE FOREWARNED❗
 > We won't be responsible for any kind of ban due to this bot.
 
-> LegendBot was made for fun purpose and to make group management easier.
+> DragonBot was made for fun purpose and to make group management easier.
 
 > It's your concern if you spam and gets your account banned.
 
@@ -109,4 +109,4 @@
 </details>
 
 
-> Made with 💕 by [@LegendBot_XD](https://t.me/LegendBot_XD).    
+> Made with 💕 by [@DRAGON_BOT_XD](https://t.me/DRAGON_BOT_XD).    
